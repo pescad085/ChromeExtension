@@ -1,0 +1,12 @@
+{
+     "manifest_version": 3,
+     "name": "change background color",
+     "version":  "1.0",
+     "description": "an extension that will change background color",
+     "permissions" : ["activeTab", "scripting"],
+     "action":  {
+           "default_popup": "popup.html"
+     }
+
+
+}
